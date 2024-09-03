@@ -1,0 +1,14 @@
+D:\Profiles\drnigm\source\repos\PE-StatementsExpressons-Negrin\PE-StatementsExpressons-Negrin\bin\Release\net8.0\PE-StatementsExpressons-Negrin.exe
+D:\Profiles\drnigm\source\repos\PE-StatementsExpressons-Negrin\PE-StatementsExpressons-Negrin\bin\Release\net8.0\PE-StatementsExpressons-Negrin.deps.json
+D:\Profiles\drnigm\source\repos\PE-StatementsExpressons-Negrin\PE-StatementsExpressons-Negrin\bin\Release\net8.0\PE-StatementsExpressons-Negrin.runtimeconfig.json
+D:\Profiles\drnigm\source\repos\PE-StatementsExpressons-Negrin\PE-StatementsExpressons-Negrin\bin\Release\net8.0\PE-StatementsExpressons-Negrin.dll
+D:\Profiles\drnigm\source\repos\PE-StatementsExpressons-Negrin\PE-StatementsExpressons-Negrin\bin\Release\net8.0\PE-StatementsExpressons-Negrin.pdb
+D:\Profiles\drnigm\source\repos\PE-StatementsExpressons-Negrin\PE-StatementsExpressons-Negrin\obj\Release\net8.0\PE-StatementsExpressons-Negrin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Profiles\drnigm\source\repos\PE-StatementsExpressons-Negrin\PE-StatementsExpressons-Negrin\obj\Release\net8.0\PE-StatementsExpressons-Negrin.AssemblyInfoInputs.cache
+D:\Profiles\drnigm\source\repos\PE-StatementsExpressons-Negrin\PE-StatementsExpressons-Negrin\obj\Release\net8.0\PE-StatementsExpressons-Negrin.AssemblyInfo.cs
+D:\Profiles\drnigm\source\repos\PE-StatementsExpressons-Negrin\PE-StatementsExpressons-Negrin\obj\Release\net8.0\PE-StatementsExpressons-Negrin.csproj.CoreCompileInputs.cache
+D:\Profiles\drnigm\source\repos\PE-StatementsExpressons-Negrin\PE-StatementsExpressons-Negrin\obj\Release\net8.0\PE-StatementsExpressons-Negrin.dll
+D:\Profiles\drnigm\source\repos\PE-StatementsExpressons-Negrin\PE-StatementsExpressons-Negrin\obj\Release\net8.0\refint\PE-StatementsExpressons-Negrin.dll
+D:\Profiles\drnigm\source\repos\PE-StatementsExpressons-Negrin\PE-StatementsExpressons-Negrin\obj\Release\net8.0\PE-StatementsExpressons-Negrin.pdb
+D:\Profiles\drnigm\source\repos\PE-StatementsExpressons-Negrin\PE-StatementsExpressons-Negrin\obj\Release\net8.0\PE-StatementsExpressons-Negrin.genruntimeconfig.cache
+D:\Profiles\drnigm\source\repos\PE-StatementsExpressons-Negrin\PE-StatementsExpressons-Negrin\obj\Release\net8.0\ref\PE-StatementsExpressons-Negrin.dll

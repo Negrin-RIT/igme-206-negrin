@@ -1,0 +1,14 @@
+D:\Profiles\drnigm\source\repos\StatementsDemoDN\StatementsDemoDN\bin\Debug\net8.0\StatementsDemoDN.exe
+D:\Profiles\drnigm\source\repos\StatementsDemoDN\StatementsDemoDN\bin\Debug\net8.0\StatementsDemoDN.deps.json
+D:\Profiles\drnigm\source\repos\StatementsDemoDN\StatementsDemoDN\bin\Debug\net8.0\StatementsDemoDN.runtimeconfig.json
+D:\Profiles\drnigm\source\repos\StatementsDemoDN\StatementsDemoDN\bin\Debug\net8.0\StatementsDemoDN.dll
+D:\Profiles\drnigm\source\repos\StatementsDemoDN\StatementsDemoDN\bin\Debug\net8.0\StatementsDemoDN.pdb
+D:\Profiles\drnigm\source\repos\StatementsDemoDN\StatementsDemoDN\obj\Debug\net8.0\StatementsDemoDN.GeneratedMSBuildEditorConfig.editorconfig
+D:\Profiles\drnigm\source\repos\StatementsDemoDN\StatementsDemoDN\obj\Debug\net8.0\StatementsDemoDN.AssemblyInfoInputs.cache
+D:\Profiles\drnigm\source\repos\StatementsDemoDN\StatementsDemoDN\obj\Debug\net8.0\StatementsDemoDN.AssemblyInfo.cs
+D:\Profiles\drnigm\source\repos\StatementsDemoDN\StatementsDemoDN\obj\Debug\net8.0\StatementsDemoDN.csproj.CoreCompileInputs.cache
+D:\Profiles\drnigm\source\repos\StatementsDemoDN\StatementsDemoDN\obj\Debug\net8.0\StatementsDemoDN.dll
+D:\Profiles\drnigm\source\repos\StatementsDemoDN\StatementsDemoDN\obj\Debug\net8.0\refint\StatementsDemoDN.dll
+D:\Profiles\drnigm\source\repos\StatementsDemoDN\StatementsDemoDN\obj\Debug\net8.0\StatementsDemoDN.pdb
+D:\Profiles\drnigm\source\repos\StatementsDemoDN\StatementsDemoDN\obj\Debug\net8.0\StatementsDemoDN.genruntimeconfig.cache
+D:\Profiles\drnigm\source\repos\StatementsDemoDN\StatementsDemoDN\obj\Debug\net8.0\ref\StatementsDemoDN.dll

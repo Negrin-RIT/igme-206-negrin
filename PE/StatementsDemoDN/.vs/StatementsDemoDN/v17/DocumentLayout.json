@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Profiles\\drnigm\\source\\repos\\StatementsDemoDN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEDA1968-F6B9-4870-A95B-85AD6C7C7810}|StatementsDemoDN\\StatementsDemoDN.csproj|d:\\profiles\\drnigm\\source\\repos\\statementsdemodn\\statementsdemodn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEDA1968-F6B9-4870-A95B-85AD6C7C7810}|StatementsDemoDN\\StatementsDemoDN.csproj|solutionrelative:statementsdemodn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEDA1968-F6B9-4870-A95B-85AD6C7C7810}|StatementsDemoDN\\StatementsDemoDN.csproj|d:\\profiles\\drnigm\\source\\repos\\statementsdemodn\\statementsdemodn\\statementsdemodn.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BEDA1968-F6B9-4870-A95B-85AD6C7C7810}|StatementsDemoDN\\StatementsDemoDN.csproj|solutionrelative:statementsdemodn\\statementsdemodn.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StatementsDemoDN",
+              "DocumentMoniker": "D:\\Profiles\\drnigm\\source\\repos\\StatementsDemoDN\\StatementsDemoDN\\StatementsDemoDN.csproj",
+              "RelativeDocumentMoniker": "StatementsDemoDN\\StatementsDemoDN.csproj",
+              "ToolTip": "D:\\Profiles\\drnigm\\source\\repos\\StatementsDemoDN\\StatementsDemoDN\\StatementsDemoDN.csproj",
+              "RelativeToolTip": "StatementsDemoDN\\StatementsDemoDN.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-29T20:07:49.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Profiles\\drnigm\\source\\repos\\StatementsDemoDN\\StatementsDemoDN\\Program.cs",
+              "RelativeDocumentMoniker": "StatementsDemoDN\\Program.cs",
+              "ToolTip": "D:\\Profiles\\drnigm\\source\\repos\\StatementsDemoDN\\StatementsDemoDN\\Program.cs",
+              "RelativeToolTip": "StatementsDemoDN\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T19:50:14.474Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

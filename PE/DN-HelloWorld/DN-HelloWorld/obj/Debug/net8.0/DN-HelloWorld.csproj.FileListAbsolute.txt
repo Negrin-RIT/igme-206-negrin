@@ -1,0 +1,14 @@
+D:\Profiles\drnigm\source\repos\DN-HelloWorld\DN-HelloWorld\bin\Debug\net8.0\DN-HelloWorld.exe
+D:\Profiles\drnigm\source\repos\DN-HelloWorld\DN-HelloWorld\bin\Debug\net8.0\DN-HelloWorld.deps.json
+D:\Profiles\drnigm\source\repos\DN-HelloWorld\DN-HelloWorld\bin\Debug\net8.0\DN-HelloWorld.runtimeconfig.json
+D:\Profiles\drnigm\source\repos\DN-HelloWorld\DN-HelloWorld\bin\Debug\net8.0\DN-HelloWorld.dll
+D:\Profiles\drnigm\source\repos\DN-HelloWorld\DN-HelloWorld\bin\Debug\net8.0\DN-HelloWorld.pdb
+D:\Profiles\drnigm\source\repos\DN-HelloWorld\DN-HelloWorld\obj\Debug\net8.0\DN-HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Profiles\drnigm\source\repos\DN-HelloWorld\DN-HelloWorld\obj\Debug\net8.0\DN-HelloWorld.AssemblyInfoInputs.cache
+D:\Profiles\drnigm\source\repos\DN-HelloWorld\DN-HelloWorld\obj\Debug\net8.0\DN-HelloWorld.AssemblyInfo.cs
+D:\Profiles\drnigm\source\repos\DN-HelloWorld\DN-HelloWorld\obj\Debug\net8.0\DN-HelloWorld.csproj.CoreCompileInputs.cache
+D:\Profiles\drnigm\source\repos\DN-HelloWorld\DN-HelloWorld\obj\Debug\net8.0\DN-HelloWorld.dll
+D:\Profiles\drnigm\source\repos\DN-HelloWorld\DN-HelloWorld\obj\Debug\net8.0\refint\DN-HelloWorld.dll
+D:\Profiles\drnigm\source\repos\DN-HelloWorld\DN-HelloWorld\obj\Debug\net8.0\DN-HelloWorld.pdb
+D:\Profiles\drnigm\source\repos\DN-HelloWorld\DN-HelloWorld\obj\Debug\net8.0\DN-HelloWorld.genruntimeconfig.cache
+D:\Profiles\drnigm\source\repos\DN-HelloWorld\DN-HelloWorld\obj\Debug\net8.0\ref\DN-HelloWorld.dll
